@@ -21,7 +21,7 @@ The captions are as below:
 ## Architecture:
 This is an experimental implementation of synthesizing images. The images are synthesized using the GAN-CLS Algorithm from the paper [Generative Adversarial Text-to-Image Synthesis](http://arxiv.org/abs/1605.05396). However, we have not used Skip-Thoughts vectors, instead, we tried the implementation using the GloVe embeddings.
 
-![Model architecture](Capture4.jpg)
+![Model architecture](screenshots/Capture4.jpg)
 
 Image Source : [Generative Adversarial Text-to-Image Synthesis](http://arxiv.org/abs/1605.05396) Paper.
 
